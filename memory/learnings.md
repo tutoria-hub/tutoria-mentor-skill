@@ -91,6 +91,24 @@ Add new learnings as they arise. This file grows over time.
 
 ---
 
+## 2025-12-11: Mentor Self-Improvement
+
+### Key Insight
+Greg Isenberg's Anthropic prompting rules apply IN REVERSE for advisors:
+- "Explain the why" → Ask for the why
+- "Draft, plan, act" → Propose thinking first
+- "Self-critique" → Challenge your own advice
+
+### Upgrade Made
+- `protocols/extraction.md` - draw out context before advising
+- `memory/frederik-profile.md` - accumulate user patterns
+- Propose-thinking + self-critique added to sparring protocol
+
+### Source
+Greg Isenberg video: "Anthropic releases method to 10x Claude Code / Opus 4.5"
+
+---
+
 ## Template for New Learnings
 
 ```

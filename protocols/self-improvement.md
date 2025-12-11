@@ -31,6 +31,38 @@ Knowledge compounds. Insights persist. The skill becomes more valuable over time
 
 ---
 
+## User Context Triggers
+
+Capture to `memory/frederik-profile.md` when:
+
+**Preferences revealed:**
+- "I prefer X over Y"
+- "That framing works better for me"
+- Strong positive/negative reaction to approach
+
+**Patterns observed:**
+- Same type of question recurring
+- Consistent decision style across topics
+- Topics that energize vs drain
+
+**Constraints surfaced:**
+- Time/energy limitations
+- Things that are off-limits
+- Non-negotiables
+
+**Format:**
+```
+## Proposed Addition to frederik-profile.md
+
+### Section: [Preferences/Patterns/Constraints]
+**ADD:** [one-line insight]
+
+Source: [this session's topic]
+~10 words | Approve?
+```
+
+---
+
 ## What Goes Where
 
 | Type of knowledge | Location |
